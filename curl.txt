@@ -1,0 +1,4 @@
+$ curl -X POST \
+      -H "Content-Type: application/json" \
+      -d '{"username":"Patrick","password":"Formateur"}' \
+      https://https://127.0.0.1:8002/auth
